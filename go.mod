@@ -1,4 +1,4 @@
-module astrobot-sdk
+module github.com/NFortun/Astrobot-Sdk
 
 go 1.19
 

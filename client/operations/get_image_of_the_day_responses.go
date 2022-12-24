@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"astrobot-sdk/models"
+	"github.com/NFortun/Astrobot-Sdk/models"
 )
 
 // GetImageOfTheDayReader is a Reader for the GetImageOfTheDay structure.
